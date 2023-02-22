@@ -1,0 +1,17 @@
+What is version control explain?
+------->  Version control, also known as source control, is the practice of tracking 
+and managing changes to software code. Version control systems are software 
+tools that help software teams manage changes to source code over time.
+
+Why is version control used?
+------->  Version control systems allow multiple developers, designers, and team members 
+to work together on the same project. It helps them work smarter and faster!
+A version control system is critical to ensure everyone has access to the latest
+code and modifications are tracked.
+
+What are the key features of version control?
+------->  Reliable: keep versions around for as long as we need them; allow backups.
+* Multiple files: track versions of a project, not single files.
+* Meaningful versions: what were the changes, why where they made?
+* Revert: restore old versions, in whole or in part.
+* Compare versions.
